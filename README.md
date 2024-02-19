@@ -19,10 +19,10 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-'''Swapping of two numbers
+```
 Developed by: SATHYAA R
 Register number: 212223100052
-'''
+```
 
 surya=int(input())
 vijay=int(input())
