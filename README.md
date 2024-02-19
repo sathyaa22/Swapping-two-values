@@ -19,18 +19,18 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-```
 Developed by: SATHYAA R
 Register number: 212223100052
-```
 
+
+```
 surya=int(input())
 vijay=int(input())
 tmp=surya
 surya=vijay
 vijay=tmp
 print("Swapped values are:",surya,vijay)
-
+```
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
