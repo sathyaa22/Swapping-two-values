@@ -32,6 +32,10 @@ vijay=tmp
 print("Swapped values are:",surya,vijay)
 ```
 
+## OUTPUT
+
+![alt text](<Screenshot 2024-03-09 160206.png>)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
